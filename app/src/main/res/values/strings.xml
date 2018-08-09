@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flickr App</string>
+
+    <string name="error_no_internet_connection">Нет интернет подключюения</string>
+    <string name="error_http_401">Неверный логин или пароль</string>
+    <string name="error_default_exception">Ошибка получения данных</string>
+
+    <string name="action_search">Search</string>
+</resources>
